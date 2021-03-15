@@ -24,7 +24,8 @@ Track Progress of TillWhen Mark 2 - https://tw2poa.vercel.app/
 
 ## Target for this year (2021)
 - [ ] Build own bundler 
-- [ ] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars and get fellow developers to maintain it
+- [x] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars.
+- [ ] Build barelyhuman.dev do be more than just an alter-ego
 - [ ] Figure out a way to live off of building open source tooling and apps (someone will have to help me figure out a way)
 - [ ] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev)
 - [ ] Get more supporters on [https://www.buymeacoffee.com/barelyhuman](https://www.buymeacoffee.com/barelyhuman)
