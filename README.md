@@ -14,10 +14,9 @@ I blog on [reaper.im/blog](https://reaper.im/blog)
 - [ ] Build barelyhuman.dev do be more than just an alter-ego
 - [ ] Build own bundlers (one for node libraries, one for the frontend)
 - [x] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars.
-- [ ] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev)
+- [x] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev) (Dropped for [Taco](https://taco.barelyhuman.dev))
 - [x] Enjoy life everyday.
 
-Track Progress of TillWhen Mark 2 - https://tw2poa.vercel.app/
 
 # Extra Pins 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=commitlog-web)](https://github.com/barelyhuman/commitlog-web)
@@ -50,14 +49,16 @@ Track Progress of TillWhen Mark 2 - https://tw2poa.vercel.app/
 }
 
 /* Dark Mode */
-body[data-dark-mode] {
-  --bg: #121212;
-  --bg-light: #191919;
-  --bg-lighter: #252525;
-  --fg: #d8dee9;
-  --fg-light: #e5e9f0;
-  --fg-lighter: #eceff4;
-  --shadow: rgb(15 17 21 / 20%) 0px 3px 6px 0px;
-  --accent: #4064f2;
+@media (prefers-color-scheme: dark) {
+  :root{
+    --bg: #121212;
+    --bg-light: #191919;
+    --bg-lighter: #252525;
+    --fg: #d8dee9;
+    --fg-light: #e5e9f0;
+    --fg-lighter: #eceff4;
+    --shadow: rgb(15 17 21 / 20%) 0px 3px 6px 0px;
+    --accent: #4064f2;
+  }
 }
 ```
