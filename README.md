@@ -12,7 +12,9 @@ I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 
 ## Target for this year (2021)
 - [ ] Build barelyhuman.dev do be more than just an alter-ego
-- [ ] Build own bundlers (one for node libraries, one for the frontend)
+- [ ] Build own bundlers
+    - [x] For node libraries - [wrap](https://github.com/barelyhuman/wrap)
+    - [ ] For browser
 - [x] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars.
 - [x] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev) (Dropped for [Taco](https://taco.barelyhuman.dev))
 - [x] Enjoy life everyday.
@@ -24,6 +26,9 @@ I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=music)](https://github.com/barelyhuman/music)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=rmnd-r)](https://github.com/barelyhuman/rmnd-r)
 
+
+## Configurations 
+[VSCode Config](https://gist.github.com/barelyhuman/b4ba8db038a75d13f693664097b09fb7)
 
 ## Colors Storage
 
