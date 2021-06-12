@@ -6,7 +6,7 @@ I plan on doing open source full time some day so if you want to help me achieve
 
 <a href="https://www.buymeacoffee.com/barelyhuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=barelyhuman&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff"></a>
 
-I blog on [reaper.im/blog](https://reaper.im/posts/index.html)
+I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=graywhite" alt="github stats for barelyhuman">
 
