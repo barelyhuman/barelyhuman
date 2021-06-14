@@ -2,9 +2,11 @@
 
 I build minimal and performant developer centric apps and tools.
 
-I plan on doing open source full time some day so if you want to help me achieve that, considering supporting by buying me a coffee and following if you can.
+I plan on doing open source full time some day so if you want to help me achieve that.
 
-<a href="https://www.buymeacoffee.com/barelyhuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=barelyhuman&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff"></a>
+If you like anything or use any of the tools that I've built, consider donating 
+
+https://barelyhuman.dev/donate
 
 I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 
