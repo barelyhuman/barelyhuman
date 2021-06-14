@@ -6,7 +6,7 @@ I plan on doing open source full time some day so if you want to help me achieve
 
 If you like anything or use any of the tools that I've built, consider donating 
 
-https://barelyhuman.dev/donate
+[Donate](https://barelyhuman.dev/donate)
 
 I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 
