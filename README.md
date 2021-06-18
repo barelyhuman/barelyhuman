@@ -1,5 +1,8 @@
 # Reaper | BarelyHuman
 
+![](https://badges.pufler.dev/visits/barelyhuman/barelyhuman?style=for-the-badge&color=131313)
+
+
 I build minimal and performant developer centric apps and tools.
 
 I plan on doing open source full time some day so if you want to help me achieve that.
