@@ -13,7 +13,10 @@ If you like anything or use any of the tools that I've built, consider donating
 
 I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=graywhite" alt="github stats for barelyhuman">
+## Stats for the geeks 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barelyhuman&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="github stats for barelyhuman">
 
 ## Target for this year (2021)
 - [ ] Build barelyhuman.dev do be more than just an alter-ego
@@ -23,14 +26,6 @@ I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
 - [x] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars.
 - [x] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev) (Dropped for [Taco](https://taco.barelyhuman.dev))
 - [x] Enjoy life everyday.
-
-
-# Extra Pins 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=commitlog-web)](https://github.com/barelyhuman/commitlog-web)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=themer)](https://github.com/barelyhuman/themer)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=music)](https://github.com/barelyhuman/music)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=rmnd-r)](https://github.com/barelyhuman/rmnd-r)
-
 
 ## Configurations 
 [VSCode Config](https://gist.github.com/barelyhuman/b4ba8db038a75d13f693664097b09fb7)
@@ -72,3 +67,10 @@ I blog on [reaper.im/posts](https://reaper.im/posts/index.html)
   }
 }
 ```
+
+
+# Extra Pins 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=commitlog-web)](https://github.com/barelyhuman/commitlog-web)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=themer)](https://github.com/barelyhuman/themer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=music)](https://github.com/barelyhuman/music)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=barelyhuman&repo=rmnd-r)](https://github.com/barelyhuman/rmnd-r)
