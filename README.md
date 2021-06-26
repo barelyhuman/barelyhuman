@@ -6,7 +6,7 @@
 Minimalist. 
 Build apps with the same mentality.
 
-Star and Donate if you like something you use.
+Make sure to star and donate if you do like something from the tools.
 
 [Donate](https://barelyhuman.dev/donate)
 
