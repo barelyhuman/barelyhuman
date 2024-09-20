@@ -10,4 +10,6 @@ If you are looking for stability, look [elsewhere &#8599;](https://github.com/du
 
 --- 
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/barelyhuman?colorA=black&colorB=black&label=Sponsor%20Me!&logo=buymeacoffee&style=for-the-badge)](https://github.com/sponsors/barelyhuman)
+**Sponsor**
+- [Github](https://github.com/sponsors/barelyhuman)
+- [Ko-Fi](https://ko-fi.com/barelyreaper)
